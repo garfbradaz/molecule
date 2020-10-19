@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "install": "^0.5.0",
-    "npm": "^3.7.3"
+    "npm": "^5.0.1"
   },
   "devDependencies": {
     "electron-prebuilt": "^0.36.8",
